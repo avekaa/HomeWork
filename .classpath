@@ -2,5 +2,15 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/ave/.m2/repository/com/googlecode/clichemaven/cliche/110413/cliche-110413.jar" sourcepath="C:/Users/ave/.m2/repository/com/googlecode/clichemaven/cliche/110413/cliche-110413-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/ave/.m2/repository/com/googlecode/clichemaven/cliche/110413/cliche-110413-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="com.googlecode.clichemaven"/>
+			<attribute name="maven.artifactId" value="cliche"/>
+			<attribute name="maven.version" value="110413"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
